@@ -1,0 +1,14 @@
+ANSIBLE
+ What is Ansible
+ Difference b/w ansible and other configuration management tools
+ What is Ansible & its features
+ How to setup Ansible
+ Understanding Ansible architecture & Execution
+ Ansible documentation
+ Installing packages by using Ansible
+ Ansible adhoc commands
+ Ansible Modules,
+ Writing playbook
+ Ansible playbook for aws
+ Most useful ansible playbooks
+ Ansible vault
